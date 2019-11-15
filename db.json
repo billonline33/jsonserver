@@ -1,0 +1,127 @@
+{
+  "sites":
+  [
+    {  "id":1,"Code": "Main Site" },
+    {  "id":2,"Code": "Parramatta" },
+    {  "id":3,"Code": "Thornleigh" },
+    {  "id":4,"Code": "QLD North" },
+    {  "id":5,"Code": "QLD South" }
+  ],
+  "branches":
+  [
+    {  "id":1,"name": "Belmont Workshop" },
+    {  "id":2,"name": "QLD Branch" },
+    {  "id":3,"name": "Central Coast" },
+    {  "id":4,"name": "North Coast" }
+  ],
+  "equipmentonhire":
+  [
+    { "id":1,
+      "site":"Main Site",
+      "branch":"Belmont Workshop",
+      "contractno":"4555",
+      "equipmentno":"7855",
+      "equipmentdescription":"Generator - 30 KVA (Diesel) LH30",
+      "quantity":"11",
+      "startdate":"24/04/2018",
+      "returndate":"25/05/2018",
+      "POno":"4433",
+      "rentualamount":"1236.25",
+      "damagewaiver":"12.52",
+      "gst":"15.25",
+      "total":"258.32"
+    },
+    { "id":2,
+      "site":"Parramatta",
+      "branch":"Belmont Workshop",
+      "contractno":"4555",
+      "equipmentno":"7855",
+      "equipmentdescription":"Generator - 30 KVA (Diesel) LH30",
+      "quantity":"11",
+      "startdate":"24/04/2018",
+      "returndate":"25/05/2018",
+      "POno":"4433",
+      "rentualamount":"1236.25",
+      "damagewaiver":"12.52",
+      "gst":"15.25",
+      "total":"258.32"
+    },
+    { "id":3,
+      "site":"Parramatta",
+      "branch":"Belmont Workshop",
+      "contractno":"4555",
+      "equipmentno":"7855",
+      "equipmentdescription":"Generator - 30 KVA (Diesel) LH30",
+      "quantity":"11",
+      "startdate":"24/04/2018",
+      "returndate":"25/05/2018",
+      "POno":"4433",
+      "rentualamount":"1236.25",
+      "damagewaiver":"12.52",
+      "gst":"15.25",
+      "total":"258.32"
+    },
+    { "id":4,
+      "site":"Main Site",
+      "branch":"Belmont Workshop",
+      "contractno":"4555",
+      "equipmentno":"7855",
+      "equipmentdescription":"Generator - 30 KVA (Diesel) LH30",
+      "quantity":"11",
+      "startdate":"24/04/2018",
+      "returndate":"25/05/2018",
+      "POno":"4433",
+      "rentualamount":"1236.25",
+      "damagewaiver":"12.52",
+      "gst":"15.25",
+      "total":"258.32"
+    },
+    { "id":5,
+      "site":"Main Site",
+      "branch":"Belmont Workshop",
+      "contractno":"4555",
+      "equipmentno":"7855",
+      "equipmentdescription":"Generator - 30 KVA (Diesel) LH30",
+      "quantity":"11",
+      "startdate":"24/04/2018",
+      "returndate":"25/05/2018",
+      "POno":"4433",
+      "rentualamount":"1236.25",
+      "damagewaiver":"12.52",
+      "gst":"15.25",
+      "total":"258.32"
+    },
+    { "id":6,
+      "site":"Main Site",
+      "branch":"Belmont Workshop",
+      "contractno":"4555",
+      "equipmentno":"7855",
+      "equipmentdescription":"Generator - 30 KVA (Diesel) LH30",
+      "quantity":"11",
+      "startdate":"24/04/2018",
+      "returndate":"25/05/2018",
+      "POno":"4433",
+      "rentualamount":"1236.25",
+      "damagewaiver":"12.52",
+      "gst":"15.25",
+      "total":"258.32"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
